@@ -1,3 +1,1 @@
-const cart = [{
-
-}]
+export const cart = [] /* This variable can be used outside of cart.js without causing naming conflicts since we are exporting it. */
